@@ -44,7 +44,7 @@ Sistema de gestión de biblioteca escolar con login, CRUD de libros, préstamos 
 - Devolución OK
 - Reportes con Threads OK
 - ### Entrega Final
-- **Video Demo (< 5 min):** https://youtu.be/TU-LINK-AQUI
+- **Video Demo (< 5 min)
 - **Usuario Admin:** admin@duoc.cl / admin123
 - **Usuario Estudiante:** estudiante@duoc.cl / 1234
 - **BD:** biblioteca_escolar
